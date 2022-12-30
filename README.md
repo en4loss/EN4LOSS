@@ -5,8 +5,8 @@
 <font color="purple">I love `<Javascript/>` </font>
 
 - 🔭 I’m currently working on **My personal website**
-
-- 🌱 I’m currently learning **C, C++, python and java**
+**
+- 🌱 I’m currently learning PHP, JavaScript and python**
 
 - 👨‍💻 All of my projects are available at [https://www.megamini.dev/portfolio](https://www.megamini.dev/portfolio)
 
